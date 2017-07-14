@@ -5,8 +5,8 @@
 
 ## Official Documention
 
-https://github.com/marbl/Krona/wiki/Importing-text-and-XML-data
-https://github.com/marbl/Krona/wiki/Krona-2.0-XML-Specification
+- https://github.com/marbl/Krona/wiki/Importing-text-and-XML-data
+- https://github.com/marbl/Krona/wiki/Krona-2.0-XML-Specification
 
 ## Examples
 
